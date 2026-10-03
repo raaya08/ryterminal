@@ -201,7 +201,7 @@ RYterminal puede utilizarse directamente desde un navegador.
 
 ### Demo
 
-[Ver RYterminal](TU-DEMO)
+[Ver RYterminal](https://ryterminal.netlify.app/)
 
 ### Ejecución local
 
