@@ -1,5 +1,7 @@
 # RYterminal
-![Logo](logo.svg)
+<p align="center">
+  <img src="logo.svg" width="600">
+</p>
 > Entorno web interactivo para aprender, practicar y experimentar con sistemas, redes y herramientas informáticas.
 
 RYterminal es una plataforma web 100% frontend diseñada como un entorno de trabajo técnico para estudiantes de informática y personas que quieren practicar conceptos de sistemas, redes y desarrollo.
