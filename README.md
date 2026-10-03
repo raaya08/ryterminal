@@ -1,5 +1,3 @@
-# ryterminal
-Entorno web interactivo para practicar sistemas, redes y herramientas informáticas.
 # RYterminal
 
 > Entorno web interactivo para aprender, practicar y experimentar con sistemas, redes y herramientas informáticas.
