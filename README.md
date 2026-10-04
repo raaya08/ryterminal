@@ -280,8 +280,17 @@ El proyecto puede seguir ampliándose con nuevas funcionalidades relacionadas co
 
 ## Autor
 
-Desarrollado por Alejandro R.
+Desarrollado por Alejandro Raya.
 
 Proyecto personal creado durante mi formación en Administración de Sistemas Informáticos en Red (ASIR).
 
 ---
+---
+
+## Derechos de autor
+
+Copyright © 2026 Alejandro Raya. Todos los derechos reservados.
+
+Este repositorio se publica con fines educativos, de demostración y como portfolio personal.
+
+El código, diseño y contenido de RYterminal no se publican bajo una licencia de software libre. No se autoriza la copia, modificación, redistribución o reutilización del proyecto o de partes sustanciales de su código sin permiso del autor.
