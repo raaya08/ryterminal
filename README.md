@@ -1,6 +1,6 @@
 # RYterminal
 <p align="center">
-  <img src="logo.svg" width="600">
+  <img src="logo.svg" width="180">
 </p>
 > Entorno web interactivo para aprender, practicar y experimentar con sistemas, redes y herramientas informáticas.
 
