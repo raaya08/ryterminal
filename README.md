@@ -203,48 +203,14 @@ RYterminal puede utilizarse directamente desde un navegador.
 
 [Ver RYterminal](https://ryterminal.netlify.app/)
 
+
 ### Ejecución local
 
-Clona el repositorio:
+Descarga el repositorio desde **Code → Download ZIP** en GitHub.
 
-```bash
-git clone https://github.com/TU-USUARIO/RYterminal.git
-```
-
-Accede al directorio:
-
-```bash
-cd RYterminal
-```
-
-Abre `index.html` en el navegador.
+Después, descomprime el archivo y abre `index.html` en el navegador.
 
 No es necesario instalar dependencias.
-
----
-
-## Estructura del proyecto
-
-```text
-RYterminal/
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-├── js/
-│   ├── app.js
-│   ├── terminal.js
-│   ├── filesystem.js
-│   ├── challenges.js
-│   └── ...
-│
-├── data/
-│
-└── assets/
-```
-
-La estructura puede variar según el desarrollo de cada módulo. El proyecto está organizado por funcionalidades para facilitar su mantenimiento y ampliación.
 
 ---
 
